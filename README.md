@@ -1,8 +1,5 @@
 # Bikerz Corner #
 
- #### Firebase Site Link:  [Bikerz Corner Live](https://bike-market-app.web.app/)
- <https://bike-market-app.web.app/>
- 
 ### Features
 * This Webpage is made with [React](https://reactjs.org/) and [Matarial UI](https://mui.com/) 
 * User needs to be logged in to purchase bikes from the website.
