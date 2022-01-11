@@ -1,4 +1,4 @@
-# Bikerz Corner #
+# Bikers Corner #
 
 ### Features
 * This Webpage is made with [React](https://reactjs.org/) and [Matarial UI](https://mui.com/) 
